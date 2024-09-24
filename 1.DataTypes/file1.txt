@@ -1,0 +1,6 @@
+first line
+second line
+third line 
+fourth line 
+Touch exmaple.txt in git bash creates a file
+nano example.txt openes the file after which you can simple edit it like i am doing rn
